@@ -1,6 +1,6 @@
-/*lustrap.glirid*/
-html{box-sizing: border-box}
-*,*:before,*:after{box-sizing: inherit}
+/*lustrap.grid*/
+html{box-sizing:border-box}
+*,*:before,*:after{box-sizing:inherit}
 ul.gli{padding-left:0}
 .gli>li{list-style:none}
 .ww{margin-left:auto;margin-right:auto;width:100%;padding-left:10px;padding-right:10px}
@@ -8,9 +8,9 @@ ul.gli{padding-left:0}
 @media(min-width:768px){.ww{max-width:720px;padding-left:20px;padding-right:20px}}
 @media(min-width:992px){.ww{max-width:960px}}
 @media(min-width:1200px){.ww{max-width:1170px;padding-left:30px;padding-right:30px}}
-@media(min-width:1600px){.ww{max-width:1200px;padding-left: 40px;padding-right: 40px}}
+@media(min-width:1600px){.ww{max-width:1200px;padding-left:40px;padding-right:40px}}
 .gli,.g_{display:flex;flex-wrap:wrap}
-.g_>.c_,.gli>li{flex: 0 1 auto;position: relative;margin:0;width:100%;max-width: 100%}
+.g_>.c_,.gli>li{flex:0 1 auto;position:relative;margin:0;width:100%;max-width:100%}
 .gli{margin:-5px}
 .g_{margin:0 -5px}
 .c_{padding:0 5px}
@@ -24,7 +24,7 @@ ul.gli{padding-left:0}
 .gli.x_s>li,.gli._s>li{padding:5px}
 .gli.x_m,.gli._m{margin:-10px}
 .g_.x_m,.g_._m{margin:0 -10px}
-.g_.x_m>.c_,.g_._m>.c_{padding: 0 10px}
+.g_.x_m>.c_,.g_._m>.c_{padding:0 10px}
 .gli.x_m>li,.gli._m>li{padding:10px}
 .gli.x_l,.gli._l{margin:-10px}
 .g_.x_l,.g_._l{margin:0 -10px}
@@ -103,7 +103,7 @@ ul.gli{padding-left:0}
 .gli.s_s>li,.gli._s>li{padding:5px}
 .gli.s_m,.gli._m{margin:-10px}
 .g_.s_m,.g_._m{margin:0 -10px}
-.g_.s_m>.c_,.g_._m>.c_{padding: 0 10px}
+.g_.s_m>.c_,.g_._m>.c_{padding:0 10px}
 .gli.s_m>li,.gli._m>li{padding:10px}
 .gli.s_l,.gli._l{margin:-10px}
 .g_.s_l,.g_._l{margin:0 -10px}
@@ -186,7 +186,7 @@ ul.gli{padding-left:0}
 .gli.m_s>li{padding:5px}
 .gli.m_m{margin:-10px}
 .g_.m_m{margin:0 -10px}
-.g_.m_m>.c_{padding: 0 10px}
+.g_.m_m>.c_{padding:0 10px}
 .gli.m_m>li{padding:10px}
 .gli.m_l{margin:-10px}
 .g_.m_l{margin:0 -10px}
@@ -265,7 +265,7 @@ ul.gli{padding-left:0}
 .gli.l_s>li{padding:5px}
 .gli.l_m{margin:-10px}
 .g_.l_m{margin:0 -10px}
-.g_.l_m>.c_{padding: 0 10px}
+.g_.l_m>.c_{padding:0 10px}
 .gli.l_m>li{padding:10px}
 .gli.l_l{margin:-10px}
 .g_.l_l{margin:0 -10px}
@@ -348,7 +348,7 @@ ul.gli{padding-left:0}
 .gli.h_s>li{padding:5px}
 .gli.h_m{margin:-10px}
 .g_.h_m{margin:0 -10px}
-.g_.h_m>.c_{padding: 0 10px}
+.g_.h_m>.c_{padding:0 10px}
 .gli.h_m>li{padding:10px}
 .gli.h_l{margin:-10px}
 .g_.h_l{margin:0 -10px}
@@ -431,7 +431,7 @@ ul.gli{padding-left:0}
 .gli.f_s>li{padding:5px}
 .gli.f_m{margin:-10px}
 .g_.f_m{margin:0 -10px}
-.g_.f_m>.c_{padding: 0 10px}
+.g_.f_m>.c_{padding:0 10px}
 .gli.f_m>li{padding:10px}
 .gli.f_l{margin:-10px}
 .g_.f_l{margin:0 -10px}
