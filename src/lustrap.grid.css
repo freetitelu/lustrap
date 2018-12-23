@@ -7,8 +7,8 @@ ul.gli{padding-left:0}
 @media(min-width:576px){.ww{max-width:540px}}
 @media(min-width:768px){.ww{max-width:720px;padding-left:20px;padding-right:20px}}
 @media(min-width:992px){.ww{max-width:960px}}
-@media(min-width:1200px){.ww{max-width:1170px;padding-left:30px;padding-right:30px}}
-@media(min-width:1600px){.ww{max-width:1200px;padding-left:40px;padding-right:40px}}
+@media(min-width:1200px){.ww{max-width: 1200px;padding-left:30px;padding-right:30px}}
+@media(min-width:1600px){.ww{max-width:1260px;padding-left:40px;padding-right:40px}}
 .gli,.g_{display:flex;flex-wrap:wrap}
 .g_>.c_,.gli>li{flex:0 1 auto;position:relative;margin:0;width:100%;max-width:100%}
 .gli{margin:-5px}
