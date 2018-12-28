@@ -10,7 +10,7 @@ ul.gli{padding-left:0}
 @media(min-width:1200px){.ww{max-width: 1200px;padding-left:30px;padding-right:30px}}
 @media(min-width:1600px){.ww{max-width:1260px;padding-left:40px;padding-right:40px}}
 .gli,.g_{display:flex;flex-wrap:wrap}
-.g_>.c_,.gli>li{flex:0 1 auto;position:relative;margin:0;width:100%;max-width:100%}
+.g_>.c_,.gli>li{flex:0 1 auto;position:relative;width:100%;max-width:100%;}
 .gli{margin:-5px}
 .g_{margin:0 -5px}
 .c_{padding:0 5px}
